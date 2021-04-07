@@ -1,0 +1,10 @@
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\bin\Debug\002-latihan.exe.config
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\bin\Debug\002-latihan.exe
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\bin\Debug\002-latihan.pdb
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\bin\Debug\002-latihan.xml
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\_002_latihan.Frlatihan1.resources
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\_002_latihan.Resources.resources
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\002-latihan.vbproj.GenerateResource.Cache
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\002-latihan.exe
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\002-latihan.xml
+E:\SMESTER 4\VB.NET\002-latihan\002-latihan\obj\Debug\002-latihan.pdb
